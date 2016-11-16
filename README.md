@@ -1,5 +1,5 @@
 #hello 
 #world
 #yaaa!
-*Today is a sad day!
-*New things
+* Today is a sad day!
+* New things
